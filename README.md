@@ -14,6 +14,6 @@ The repository has the following structure
 | File     |      Description      |   |
 |:----------|:-------------|------:|
 | [SentPt](https://github.com/fabiobif/SentPt/blob/main/SentPt.ipynb) | Presents a classifier to detect sentiment polarity (notebook: SentPt.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/fabiobif/SentPt/blob/main/SentPt.ipynb)|
-| [Dataset](https://github.com/fabiobif/VoltageLoss/tree/main/datasets) | Folder containing the created datasets |  |
+| [Dataset](https://drive.google.com/file/d/1oKuRqJ7nVKruTJ7j9JaDMgIPShWnP9TO/view?usp=sharing) | Link to the folder containing the created datasets |  |
 
 ---
