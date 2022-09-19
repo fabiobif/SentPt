@@ -7,3 +7,13 @@ BibTeX:
 ```
 In process of review 
 ```
+
+
+The repository has the following structure
+
+| File     |      Description      |   |
+|:----------|:-------------|------:|
+| [SentPt](https://github.com/fabiobif/SentPt/blob/main/SentPt.ipynb) | Presents a classifier to detect sentiment polarity (notebook: SentPt.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/fabiobif/SentPt/blob/main/SentPt.ipynb)|
+| [Dataset](https://github.com/fabiobif/VoltageLoss/tree/main/datasets) | Folder containing the created datasets |  |
+
+---
